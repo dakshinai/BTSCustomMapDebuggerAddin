@@ -1,0 +1,22 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>"D:\Dev\dilangov\OES4\OES4_PIP2A1_ZCAP_Filter\bergu\MW.OeS4.IDOC_MATMAS03_With Bergu.xml" "D:\Dev\dilangov\EnterpriseMiddleware\MAIN\Apps\BizTalk2006\MW.Oes4.PIP2A1.MATMAS03_SAPEpipe_EMS_To_BCRN\src\MW.OeS4.PIP2A1.MATMAS03_SAPEpipe_EMS_To_BCRN.Schemas\Maps\PlantList.xslt" "D:\Dev\dilangov\EnterpriseMiddleware\MAIN\Apps\BizTalk2006\MW.Oes4.PIP2A1.MATMAS03_SAPEpipe_EMS_To_BCRN\src\MW.OeS4.PIP2A1.MATMAS03_SAPEpipe_EMS_To_BCRN.Schemas\Maps\ExtentionObject.xml" "C:\Documents and Settings\ad_dilangov\Application Data\BTS Custom Map Debugger\Output" "mapped_MW.OeS4.IDOC_MATMAS03_With Bergu.xml" "466357298"</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartArguments>"D:\Dev\dilangov\OES4\OES4_PIP2A1_ZCAP_Filter\bergu\Oes4_PIP2A1_Material_Type_Begru_Filter.xml" "D:\Dev\dilangov\EnterpriseMiddleware\MAIN\Apps\BizTalk2006\MW.Oes4.PIP2A1.MATMAS03_SAPEpipe_EMS_To_BCRN\src\MW.OeS4.PIP2A1.MATMAS03_SAPEpipe_EMS_To_BCRN.Schemas\Maps\PlantList.xslt" "D:\Dev\dilangov\EnterpriseMiddleware\MAIN\Apps\BizTalk2006\MW.Oes4.PIP2A1.MATMAS03_SAPEpipe_EMS_To_BCRN\src\MW.OeS4.PIP2A1.MATMAS03_SAPEpipe_EMS_To_BCRN.Schemas\Maps\ExtentionObject.xml" "C:\Documents and Settings\ad_dilangov\Application Data\BTS Custom Map Debugger\Output" "mapped_Oes4_PIP2A1_Material_Type_Begru_Filter.xml"</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PublishUrlHistory>http://localhost/BTSCustomMapDebugEngine/</PublishUrlHistory>
+    <InstallUrlHistory>
+    </InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ApplicationRevision>0</ApplicationRevision>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

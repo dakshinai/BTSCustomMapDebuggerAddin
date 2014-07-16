@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTSCustomMapDebugger", "BTSCustomMapDebugger\BTSCustomMapDebugger.csproj", "{E38E4531-0D89-41FC-8276-494507BF3E25}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BTS Custom Map Debugger", "BTS Custom Map Debugger\BTS Custom Map Debugger.vdproj", "{84BDC8E0-086D-42BB-9114-2AEB66FFBE41}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://source.intel.com:8080/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BTSCustomMapDebugger\\BTSCustomMapDebugger.csproj
+		SccProjectName1 = BTSCustomMapDebugger
+		SccLocalPath1 = BTSCustomMapDebugger
+		SccProjectUniqueName2 = BTS\u0020Custom\u0020Map\u0020Debugger\\BTS\u0020Custom\u0020Map\u0020Debugger.vdproj
+		SccProjectName2 = BTS\u0020Custom\u0020Map\u0020Debugger
+		SccLocalPath2 = BTS\u0020Custom\u0020Map\u0020Debugger
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E38E4531-0D89-41FC-8276-494507BF3E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E38E4531-0D89-41FC-8276-494507BF3E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E38E4531-0D89-41FC-8276-494507BF3E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E38E4531-0D89-41FC-8276-494507BF3E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84BDC8E0-086D-42BB-9114-2AEB66FFBE41}.Debug|Any CPU.ActiveCfg = Debug
+		{84BDC8E0-086D-42BB-9114-2AEB66FFBE41}.Debug|Any CPU.Build.0 = Debug
+		{84BDC8E0-086D-42BB-9114-2AEB66FFBE41}.Release|Any CPU.ActiveCfg = Release
+		{84BDC8E0-086D-42BB-9114-2AEB66FFBE41}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
